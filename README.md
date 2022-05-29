@@ -1,2 +1,2 @@
 # estudoAngular
-Repositório com evoluções dos projetos feitos no curso Angular - The Complete Guide
+Curso Udemy sobre Angular - The Complete Guide
